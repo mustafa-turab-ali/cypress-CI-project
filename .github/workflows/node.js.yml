@@ -26,5 +26,5 @@ jobs:
     - name: remote-bash
       # uses: shinhwagk/remote-bash@0.0.1
       run: |
-        echo "Test complete"
+        echo "Test completed"
           
